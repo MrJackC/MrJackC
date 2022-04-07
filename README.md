@@ -4,11 +4,14 @@
 
 ## Hello GitHub Fans 👋
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in NeiMengGu, China.
 - 💬 Ask me about Java, TypeScript and my projects on [mrjasonss@163.com](mrjasonss@163.com)
 - ⭐ You may like [webkettle](https://github.com/MrJackC) 
 - ⚡ Fun fact: Data Analysis📊
+
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -26,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=mrjackc&show_icons=true&hide_border=true)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
